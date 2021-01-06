@@ -8,6 +8,7 @@
   "author": "Théo Esnault",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^14.14.20",
     "ts-node": "^9.1.1"
   },
   "dependencies": {
